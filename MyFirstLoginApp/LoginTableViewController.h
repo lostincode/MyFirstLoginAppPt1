@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LoginTableViewController.h
 //  MyFirstLoginApp
 //
 //  Created by William Richards on 5/31/12.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface LoginTableViewController : UITableViewController
 
 @end
